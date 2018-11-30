@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Inconsolata');
 
-* {
+*{
     font-family: 'Inconsolata', monospace;
 }
 
@@ -48,7 +48,6 @@ input[type=radio]{
     color: white;
     padding: 10px;
 }
-
 
 #quiz-message {
     color: red;
